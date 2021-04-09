@@ -1,0 +1,39 @@
+body {
+    background-color: #000000;
+    min-height: 854px;
+    background-image: url('https://i.pinimg.com/originals/e1/9d/6a/e19d6a4368b7d6e2db962a78b56f9343.jpg');
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    font-family: 'Noto Serif JP', serif;
+}
+  
+  .container {
+    text-align: center;
+    padding: 0px; 
+}
+  
+  .page-title {
+    color: #ffffff;
+    margin: 5% 0 5px;
+    font-size: 50px;
+}
+  
+  .calculadora {
+    width: 400px;
+    height:400px;
+    background-image: url('https://media.istockphoto.com/vectors/calculator-icon-elements-of-logistics-in-neon-style-icons-simple-icon-vector-id1129487200?k=6&m=1129487200&s=170667a&w=0&h=_9tRR5fkyfEwCvIuNgJXoAtznKuSHQoGtAf-kMCyiD0=');
+    margin: 0 auto;
+    position: relative;
+}
+  
+  h2 {
+    position: absolute;
+    font-size:16px;
+    font-weight:bold;
+    top: 270px;
+    left: calc(50% - 72.5px);
+    width: 160px;
+    text-align:center;
+    color: white;
+}  
